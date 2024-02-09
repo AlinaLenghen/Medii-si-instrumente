@@ -1,0 +1,14 @@
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\4.1 Array and Tuples\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
