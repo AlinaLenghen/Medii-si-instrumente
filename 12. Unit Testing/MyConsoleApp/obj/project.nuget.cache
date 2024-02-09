@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8heBBW3OzCmmGk0CLvOO2z7mj1y2IJInCnyH4AX2LTzFCaF+WbF2p1ZriTF+GdlcuaUJjSerUhW3MNvRmvGnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Livia Lenghen\\Desktop\\MediiSiInstrumenteProgramare\\12. Unit Testing\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Livia Lenghen\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\Livia Lenghen\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

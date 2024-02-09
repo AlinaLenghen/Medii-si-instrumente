@@ -1,0 +1,4 @@
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\12. Unit Testing\UnitTesting\obj\Debug\net8.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\12. Unit Testing\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\12. Unit Testing\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfo.cs
+C:\Users\Livia Lenghen\Desktop\MediiSiInstrumenteProgramare\12. Unit Testing\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CoreCompileInputs.cache
